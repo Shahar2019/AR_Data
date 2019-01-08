@@ -1,0 +1,70 @@
+serial,species,date,location,depth,length,weight,water temp,TP
+SY02,Mycteroperca rubra,28/12/2014,sdot yam,21,31,0.31,20,4.515784415
+SY03,Epinephelus costea,28/12/2014,sdot yam,21,35,0.45,20,2.882466568
+SY06,Epinephelus aeneus,28/12/2014,sdot yam,21,45.5,1,20,4.277478307
+SY08,Mycteroperca rubra,25/01/2015,sdot yam,9,33.5,0.33,17,4.323951977
+SY09,Mycteroperca rubra,25/01/2015,sdot yam,9,60,2.15,17,4.069545624
+SY10,Epinephelus marginatus,29/01/2015,sdot yam,5,42.5,1.15,16,3.067901269
+SY11,Mycteroperca rubra,03/02/2015,sdot yam,10,32,0.37,18,4.673808935
+SY12,Mycteroperca rubra,03/02/2015,sdot yam,10,35,0.51,18,2.745879505
+SY13,Epinephelus marginatus,03/02/2015,sdot yam,10,47,1.33,18,4.290736371
+SY15,Mycteroperca rubra,25/03/2015,sdot yam,10,34,0.39,17,4.160181433
+SY16,Mycteroperca rubra,25/03/2015,sdot yam,10,58,2.26,17,4.497645301
+SY17,Mycteroperca rubra,25/03/2015,sdot yam,10,40.5,0.79,17,4.83467707
+sy18,Epinephelus costea,30/07/2015,sdot yam,30,30,0.25,29,2.378783048
+sy19,Epinephelus costea,31/07/2015,sdot yam,30,30,0.25,29,3.756447837
+sy19,Epinephelus costea,30/07/2015,sdot yam,30,31,0.29,29,3.046942947
+sy20,Epinephelus costea,31/07/2015,sdot yam,30,31,0.29,29,2.946606273
+sy21,Epinephelus costea,01/08/2015,sdot yam,30,31,0.29,29,4.937611307
+sy20,Epinephelus marginatus,30/07/2015,sdot yam,30,40,0.69,29,4.5648194
+sy21,Epinephelus marginatus,30/06/2015,sdot yam,2,20,0.16,29,3.036142472
+sy22,Epinephelus marginatus,01/07/2015,sdot yam,2,20,0.16,29,2.883972705
+sy22,Epinephelus marginatus,05/08/2015,sdot yam,12,41,0.82,30,4.535807438
+sy23,Epinephelus marginatus,06/08/2015,sdot yam,12,41,0.82,30,4.321051919
+sy24,Epinephelus marginatus,07/08/2015,sdot yam,12,41,0.82,30,4.328908995
+sy23,Epinephelus marginatus,06/08/2015,sdot yam,12,31,0.34,30,4.335741436
+sy25,Mycteroperca rubra,08/08/2015,sdot yam,12,26,0.18,30,5.031460337
+sy26,Mycteroperca rubra,17/06/2015,sdot yam,10,22.5,0.125,30,4.492527971
+sy27,Mycteroperca rubra,17/06/2015,sdot yam,10,47,1.03,30,5.019374871
+sy28,Epinephelus aeneus,30/07/2015,sdot yam,25,27,0.184,30,4.501165176
+sy30,Epinephelus costea,30/07/2015,sdot yam,25,29,0.277,30,3.585914517
+sy32,Epinephelus aeneus,30/07/2015,sdot yam,25,45,0.985,30,4.888023385
+sy33,Epinephelus aeneus,11/08/2015,sdot yam,15,65,2.72,30,2.585301741
+sy34,Epinephelus marginatus,13/11/2015,sdot yam,38,43,0.91,24,4.524709661
+sy36,Mycteroperca rubra,13/11/2015,sdot yam,38,28,0.28,24,5.027663262
+sy37,Mycteroperca rubra,15/06/2016,sdot yam,12,42,0.774,23,5.576048351
+sy39,Epinephelus marginatus,15/06/2016,sdot yam,12,36,0.76,23,4.643402645
+sy40,Epinephelus marginatus,15/06/2016,sdot yam,12,36,0.557,23,4.563773808
+sy43,Epinephelus marginatus,15/06/2016,sdot yam,12,53.5,2.25,23,4.671473849
+sy48,Mycteroperca rubra,15/06/2016,sdot yam,12,40,0.74,23,4.694680406
+sy49,Epinephelus marginatus,15/06/2016,sdot yam,12,27.5,0.3,23,4.387860988
+sy50,Mycteroperca rubra,15/06/2016,sdot yam,12,32,0.385,23,5.057619214
+sy51,Epinephelus marginatus,15/06/2016,sdot yam,12,34.5,0.629,23,4.21588677
+sy52,Epinephelus marginatus,15/06/2016,sdot yam,12,27.5,0.271,23,4.288030804
+sy53,Epinephelus marginatus,16/06/2016,sdot yam,12,27.5,0.271,23,3.142204624
+sy53,Mycteroperca rubra,15/06/2016,sdot yam,12,32,0.434,23,4.874395841
+sy54,Mycteroperca rubra,15/06/2016,sdot yam,12,31,0.338,23,4.71358088
+sy58,Mycteroperca rubra,15/06/2016,sdot yam,12,44,0.84,23,3.932378941
+sy59,Epinephelus marginatus,15/06/2016,sdot yam,12,36.5,0.885,23,4.233377204
+sy61,Epinephelus marginatus,16/06/2016,sdot yam,12,66,4.6,23,4.529290278
+sy62,Siganus rivulatus,16/07/2017,sdot yam,2,11,0.0185,30,2.25959163
+sy63,Siganus rivulatus,16/07/2017,sdot yam,2,17.5,0.0692,30,3.119960674
+sy64,Siganus rivulatus,17/07/2017,sdot yam,2,17.5,0.0692,30,2.17114234
+sy64,Siganus rivulatus,16/07/2017,sdot yam,2,14,0.0316,30,2.225974286
+sy65,Siganus rivulatus,16/07/2017,sdot yam,2,14.5,0.0361,30,2.314468697
+sy66,Siganus rivulatus,17/07/2017,sdot yam,2,14.5,0.0361,30,2.570805259
+sy66,Siganus rivulatus,16/07/2017,sdot yam,2,13,0.0266,30,2.560715904
+sy67,Siganus rivulatus,16/07/2017,sdot yam,2,12,0.0206,30,2.320990871
+sy68,siganus luridus,01/09/2017,sdot yam,2,14,0.0455,29,2.062321187
+sy69,siganus luridus,01/09/2017,sdot yam,2,16,0.0606,29,2.040705604
+sy70,siganus luridus,01/09/2017,sdot yam,2,11,0.025,29,1.51074593
+SY72,Epinephelus marginatus,21/06/2018,Neva yam,3,16,0.06,28,3.369663385
+SY73,Epinephelus marginatus,26/06/2018,Sdot-Yam,5,18.5,0.085,28,3.61180148
+SY74,Epinephelus marginatus,26/06/2018,Sdot-Yam,5,18,0.095,28,3.889348389
+SY75,Epinephelus marginatus,23/08/2018,Haifa,2,14,0.047,30,2.546038385
+SY77,Epinephelus marginatus,15/09/2018,Sdot-Yam,5,8.5,0.012,30,2.854728171
+SY78,Epinephelus marginatus,15/09/2018,Sdot-Yam,5,7.5,0.009,30,3.770392461
+SY79,Epinephelus marginatus,15/09/2018,Sdot-Yam,5,8,0.007,30,2.598091533
+SY80,Epinephelus marginatus,20/09/2018,Sdot-Yam,5,9,0.012,29,3.360199112
+SY82,Epinephelus marginatus,20/09/2018,Sdot-Yam,5,23,0.18,29,3.020509957
+SY83,Mycteroperca rubra,20/09/2018,Sdot-Yam,5,23,0.149,29,3.341865969
